@@ -54,7 +54,7 @@ def get_lend_earliest(answer):
 
 # Constant delay.
 def delay():
-    return 2
+    return 1
 
 
 # Query each team the three questions in order to determine lenders/borrowers in the minimum time.
